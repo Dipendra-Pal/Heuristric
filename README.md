@@ -1,0 +1,2 @@
+# Heuristric
+Heuristic Search Algorithm
